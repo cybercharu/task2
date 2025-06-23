@@ -1,12 +1,12 @@
 # task2
 ## Exploratory Data Analysis
 ### how to use
--download the dataset from kaggle link: https://www.kaggle.com/datasets/mehmettahiraslan/customer-shopping-dataset/data
--Open vs code
---check python is downloaded,if yes continue otherwise first download it.
-check using this command : python --version
---Open jupyter notebook using ctrl+shift+P 
-create New Jupyter Notebook and save the file in Json format
+- download the dataset from kaggle link: https://www.kaggle.com/datasets/mehmettahiraslan/customer-shopping-dataset/data
+- Open vs code
+-- check python is downloaded,if yes continue otherwise first download it.
+   check using this command : python --version
+-- Open jupyter notebook using ctrl+shift+P 
+   create New Jupyter Notebook and save the file in Json format
 -- import pandas as pd
 -- check pandas version: pd.__version__
 -- import io
